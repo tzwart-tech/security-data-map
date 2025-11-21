@@ -1,5 +1,9 @@
 # Secutiry Data Map
 
+## Hosted
+
+https://tzwart-tech.github.io/security-data-map/
+
 ## How To Run
 
 - install using node 20.14.0
